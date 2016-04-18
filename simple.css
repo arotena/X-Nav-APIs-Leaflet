@@ -1,0 +1,5 @@
+/* CSS for simple.html (Leaflet) */
+
+html, body, #map {
+    height: 100%;
+}
